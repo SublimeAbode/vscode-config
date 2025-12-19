@@ -42,5 +42,10 @@
             "icon": "terminal-powershell"
         }
     },
-    "terminal.integrated.defaultProfile.osx": "fish"
+    "terminal.integrated.defaultProfile.osx": "fish",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.rulers": [
+       100 
+    ],
+    "editor.wordWrapColumn": 100
 }
