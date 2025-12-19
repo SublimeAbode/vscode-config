@@ -43,6 +43,15 @@
         }
     },
     "terminal.integrated.defaultProfile.osx": "fish",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     "editor.wordWrap": "wordWrapColumn",
     "editor.rulers": [
        100 
